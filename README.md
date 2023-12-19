@@ -61,8 +61,6 @@ export async function handler(event) {
 
 ```
 
-**Remember:** These are just snippets!  Netlify Functions can handle complex tasks like image processing, data manipulation, and API integrations.
-
 **Ready to dive deeper?**  Check out these resources:
 
   - **Netlify Functions docs:** https://docs.netlify.com/functions/overview/
